@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "41831830655",
+    "firebase_url": "https://breeze-cfce6.firebaseio.com",
+    "project_id": "breeze-cfce6",
+    "storage_bucket": "breeze-cfce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41831830655:android:9140088f361f5b3b",
+        "android_client_info": {
+          "package_name": "com.example.ritika.breeze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41831830655-53g0b06nu21r3keksjrmmg8lkh34a28d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ritika.breeze",
+            "certificate_hash": "2b43551502647080020b7fad1824d89b4e9cabc6"
+          }
+        },
+        {
+          "client_id": "41831830655-7j8ol898fv1eanm05v28c92f919g9lll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-uvSx7elYjY_M96qPfjUw6SK_4YJd5V0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41831830655-7j8ol898fv1eanm05v28c92f919g9lll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
